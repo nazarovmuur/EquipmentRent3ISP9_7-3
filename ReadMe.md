@@ -38,16 +38,26 @@
 
 ![image](https://user-images.githubusercontent.com/94895241/162291263-8e0195f0-9b64-44f5-bc13-117f118e81d2.png)
 
-<h2>Продукты</h2>
+<h2>Оборудование</h2>
 
 ![image](https://user-images.githubusercontent.com/94895241/162291381-1a1dce3c-c081-42bf-b923-8fd155df6688.png)
 
-<h2>Продукты<(изменение)/h2>
+<h2>Оборудование<(изменение)/h2>
 
 ![image](https://user-images.githubusercontent.com/94895241/162291425-a9244a0e-4bc2-4739-b531-14e7ac86d1f7.png)
   
-<h2>Выдача товаров( в процессе..) /h2>  
+<h2>Аренда, выдача товара /h2>  
   
+ ![image](https://user-images.githubusercontent.com/94895241/171589172-5445c1d5-0584-4006-8f51-2e3e58e7377d.png)
+  
+  <h2>Его изменение  /h2>  
+ ![image](https://user-images.githubusercontent.com/94895241/171589271-82677661-72d7-487e-9822-06089c8d4805.png)
+
+    
+    <h2>Так же его добавление  /h2>  
+![image](https://user-images.githubusercontent.com/94895241/171589362-f75419f9-fe33-425c-a88f-15e6e98b73b6.png)
+
+       <h2>Отчетность (В процессе..)  /h2>  
   
 
 
