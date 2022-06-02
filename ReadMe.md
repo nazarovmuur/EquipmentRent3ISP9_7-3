@@ -50,14 +50,14 @@
   
  ![image](https://user-images.githubusercontent.com/94895241/171589172-5445c1d5-0584-4006-8f51-2e3e58e7377d.png)
   
-  <h2>Его изменение  /h2>  
+  <h2>Его изменение/h2>  
  ![image](https://user-images.githubusercontent.com/94895241/171589271-82677661-72d7-487e-9822-06089c8d4805.png)
 
     
-    <h2>Так же его добавление  /h2>  
+ <h2>Так же его добавление/h2>  
 ![image](https://user-images.githubusercontent.com/94895241/171589362-f75419f9-fe33-425c-a88f-15e6e98b73b6.png)
 
-       <h2>Отчетность (В процессе..)  /h2>  
+ <h2>Отчетность (В процессе..)  /h2>  
   
 
 
